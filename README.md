@@ -82,6 +82,4 @@ Correlation analysis and visualizations provide useful insights into the factors
 **Shokufa Shalchi**
 
 Computer Engineering Student  
-Interested in Data Science, Computer Vision, Backend Development, and Site Reliability Engineering (SRE).
 
-GitHub: https://github.com/shokufa
